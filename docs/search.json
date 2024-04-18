@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Timothy Cuaderno",
+    "section": "",
+    "text": "Hello! I am a fourth year student at the University of California, San Diego with a Major in Business Economics and a Minor in Engineering Mechanics. I am interested in exploring the fields of engineering and business within the aerospace or technology industries. I hope to find a career that balances quantitative and qualitative skills and requires constant interaction with people. I not only enjoy learning new technical methods of analysis, but also learning how to interpret and present data through language. I currently help manage a family-owned laundromat in Los Angeles where I book-keep finances, assist customers, and maintain machines."
+  },
+  {
+    "objectID": "blog/project2/index.html",
+    "href": "blog/project2/index.html",
+    "title": "Tim's Website",
+    "section": "",
+    "text": "#| message: false\nlibrary(tidyverse)"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Description of Project 1…\nDownload PDF file.\n\n\n\nDescription of Project 2…\nLink to Project 2 Subpage\n…"
+  },
+  {
+    "objectID": "blog/project2/index.html#download-pdf",
+    "href": "blog/project2/index.html#download-pdf",
+    "title": "Sustainability-Based Proposal of Website Changes",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "blog/project2/index.html#introduction",
+    "href": "blog/project2/index.html#introduction",
+    "title": "Blog Post Title",
+    "section": "",
+    "text": "This is the introduction to your blog post."
+  },
+  {
+    "objectID": "blog/project2/index.html#conclusion",
+    "href": "blog/project2/index.html#conclusion",
+    "title": "Blog Post Title",
+    "section": "",
+    "text": "This is the conclusion of your blog post."
+  },
+  {
+    "objectID": "blog/project2/index.html#embedded-pdf",
+    "href": "blog/project2/index.html#embedded-pdf",
+    "title": "Blog Post Title",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "blog.html#project-1-example-project",
+    "href": "blog.html#project-1-example-project",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Description of Project 1…\nDownload PDF file."
+  },
+  {
+    "objectID": "blog.html#project-2-another-project",
+    "href": "blog.html#project-2-another-project",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Description of Project 2…\nLink to Project 2 Subpage\n…"
+  },
+  {
+    "objectID": "blog.html#project-1-details",
+    "href": "blog.html#project-1-details",
+    "title": "My Portfolio",
+    "section": "Project 1 Details",
+    "text": "Project 1 Details\nDetails and content for Project 1…"
+  },
+  {
+    "objectID": "blog.html#project-2-details",
+    "href": "blog.html#project-2-details",
+    "title": "My Portfolio",
+    "section": "Project 2 Details",
+    "text": "Project 2 Details\nDetails and content for Project 2…"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Experiment on Different Shipping Prices and Consumer Preference\nDownload PDF file.\n\n\n\nSustainability-Based Proposal of Website Changes\nDownload PDF file.\n\n\n\nEngineering Analysis on Energy-Saving Investments\nDownload PDF file.\n\n\n\nCase Study on Linguistic Development\nDownload PDF file."
+  },
+  {
+    "objectID": "projects.html#project-1-example-project",
+    "href": "projects.html#project-1-example-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Description of Project 1…\nDownload PDF file."
+  },
+  {
+    "objectID": "projects.html#project-2-another-project",
+    "href": "projects.html#project-2-another-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Description of Project 2…\nLink to Project 2 Subpage"
+  },
+  {
+    "objectID": "projects.html#project-1-details",
+    "href": "projects.html#project-1-details",
+    "title": "Projects",
+    "section": "Project 1 Details",
+    "text": "Project 1 Details\nDetails and content for Project 1…"
+  },
+  {
+    "objectID": "projects.html#project-2-details",
+    "href": "projects.html#project-2-details",
+    "title": "Projects",
+    "section": "Project 2 Details",
+    "text": "Project 2 Details\nDetails and content for Project 2…"
+  },
+  {
+    "objectID": "projects.html#project-1-experiment-on-different-shipping-prices-and-consumer-preference",
+    "href": "projects.html#project-1-experiment-on-different-shipping-prices-and-consumer-preference",
+    "title": "Projects",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "projects.html#experiment-on-different-shipping-prices-and-consumer-preference",
+    "href": "projects.html#experiment-on-different-shipping-prices-and-consumer-preference",
+    "title": "Projects",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Experiment on Different Shipping Prices and Consumer Preference\nDownload PDF file."
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "",
+    "text": "Sustainability-Based Proposal of Website Changes\nDownload PDF file."
+  },
+  {
+    "objectID": "projects.html#project-3",
+    "href": "projects.html#project-3",
+    "title": "Projects",
+    "section": "",
+    "text": "Engineering Analysis on Energy-Saving Investments\nDownload PDF file."
+  },
+  {
+    "objectID": "projects.html#project-4",
+    "href": "projects.html#project-4",
+    "title": "Projects",
+    "section": "",
+    "text": "Case Study on Linguistic Development\nDownload PDF file."
+  }
+]

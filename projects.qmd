@@ -1,0 +1,25 @@
+# Projects
+
+## Project 1
+
+Experiment on Different Shipping Prices and Consumer Preference
+
+{{< pdf project1/project1.pdf width=100% height=800 >}}
+
+## Project 2
+
+Sustainability-Based Proposal of Website Changes
+
+{{< pdf project2/project2.pdf width=100% height=800 >}}
+
+## Project 3
+
+Engineering Analysis on Energy-Saving Investments
+
+{{< pdf project3/project3.pdf width=100% height=800 >}}
+
+## Project 4
+
+Case Study on Linguistic Development
+
+{{< pdf project4/project4.pdf width=100% height=800 >}}
